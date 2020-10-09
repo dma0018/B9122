@@ -1,0 +1,17 @@
+commit 1b53a6e718f9a4db689dbc2eb7e97b1c8ee7a74a
+Author: dma0018 <71859337+dma0018@users.noreply.github.com>
+Date:   Fri Oct 9 00:05:54 2020 -0400
+
+    Update Pset2_soln_Alderman_v2_Revised.py
+
+commit 01839fe31847c0b4f5512536d6d1dbe0838c4e21
+Author: dma0018 <71859337+dma0018@users.noreply.github.com>
+Date:   Thu Oct 8 23:24:47 2020 -0400
+
+    Create README.md
+
+commit 58896634f8389011bda7a496c7781a062281f173
+Author: dma0018 <71859337+dma0018@users.noreply.github.com>
+Date:   Thu Oct 8 23:22:45 2020 -0400
+
+    Add files via upload
