@@ -10,7 +10,7 @@ import pandas as pd
 import statsmodels.api as sm
 import os
 print('\n')
-
+# Make changes for Fun!
 with open(r'C:\Users\david\OneDrive\Documents\1a. Columbia MSFE\2020.09_Intro_to_Econometrics\psets\Pset 2\nls_2008.txt') as f:
           matrix = [line.split() for line in f]
 
